@@ -8,3 +8,4 @@ Sorting in this program is done in Ascending Order.
 
 Output:
 
+![output](https://user-images.githubusercontent.com/65763501/113053627-1a8e0800-91c6-11eb-92e3-4e5091e7e5ad.JPG)
